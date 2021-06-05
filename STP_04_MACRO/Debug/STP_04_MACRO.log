@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\dg5codec\c++programming_course\stp_04_macro\main.cpp(16): error C2106: =: левый операнд должен быть левосторонним значением
+d:\dg5codec\c++programming_course\stp_04_macro\main.cpp(17): error C2062: тип "int" не требуется
+d:\dg5codec\c++programming_course\stp_04_macro\main.cpp(17): error C2065: a_: необъявленный идентификатор
+d:\dg5codec\c++programming_course\stp_04_macro\main.cpp(19): error C2059: синтаксическая ошибка: return
+d:\dg5codec\c++programming_course\stp_04_macro\main.cpp(20): error C2059: синтаксическая ошибка: }
+d:\dg5codec\c++programming_course\stp_04_macro\main.cpp(20): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
